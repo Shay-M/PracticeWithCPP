@@ -1,0 +1,9 @@
+﻿  Rational.cpp
+c:\users\8lab309\documents\visual studio 2015\projects\df5\df5\rational.cpp(32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\8lab309\documents\visual studio 2015\projects\df5\df5\rational.cpp(33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\8lab309\documents\visual studio 2015\projects\df5\df5\rational.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\8lab309\documents\visual studio 2015\projects\df5\df5\rational.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\8lab309\documents\visual studio 2015\projects\df5\df5\rational.cpp(39): error C2296: '%': illegal, left operand has type 'float'
+c:\users\8lab309\documents\visual studio 2015\projects\df5\df5\rational.cpp(39): error C2297: '%': illegal, right operand has type 'float'
+  ex5.cpp
+  Generating Code...
