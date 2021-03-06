@@ -1,0 +1,8 @@
+﻿  Customer.cpp
+  Queue.cpp
+c:\users\8lab309\source\repos\project1\project1\node.h(8): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+c:\users\8lab309\source\repos\project1\project1\queue.cpp(8): warning C4101: 'line': unreferenced local variable
+  ex4.cpp
+c:\users\8lab309\source\repos\project1\project1\ex4.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Project1.vcxproj -> C:\Users\8lab309\source\repos\Project1\Debug\Project1.exe
