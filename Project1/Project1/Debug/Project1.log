@@ -1,0 +1,12 @@
+﻿  Date.cpp
+c:\users\oz\source\repos\project1\project1\date.cpp(135): error C3861: 'stoi': identifier not found
+c:\users\oz\source\repos\project1\project1\date.cpp(138): error C3861: 'stoi': identifier not found
+c:\users\oz\source\repos\project1\project1\date.cpp(141): error C3861: 'stoi': identifier not found
+c:\users\oz\source\repos\project1\project1\date.cpp(134): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\oz\source\repos\project1\project1\date.cpp(137): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\oz\source\repos\project1\project1\date.cpp(140): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+  Main.cpp
+  Generating Code...
